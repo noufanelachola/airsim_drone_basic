@@ -1,0 +1,16 @@
+airsim==1.8.1
+backports.ssl_match_hostname==3.7.0.1
+cloudpickle==3.1.1
+Farama-Notifications==0.0.4
+gymnasium==1.1.1
+msgpack-python==0.5.6
+msgpack-rpc-python==0.4.1
+numpy==2.2.6
+opencv-contrib-python==4.11.0.86
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
+pygame==2.6.1
+setuptools==80.9.0
+tornado==4.5.3
+typing_extensions==4.13.2
+wheel==0.45.1
